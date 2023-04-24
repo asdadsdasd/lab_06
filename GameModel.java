@@ -26,7 +26,7 @@ public class GameModel {
     public GameField field(){
         return this.gameField;
     }
-    
+    //second - 4
 // -------------------------------- Игроки -----------------------------------
     
     private ArrayList<Player> _playerList = new ArrayList<>();
