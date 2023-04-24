@@ -19,7 +19,7 @@ import xzero.model.navigation.Direction;
 public class GameModel {
     
 // -------------------------------- Поле -------------------------------------
-    
+//main - 3    
     //!!!
     private GameField gameField = new GameField();
     
