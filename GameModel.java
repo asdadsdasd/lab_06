@@ -28,7 +28,7 @@ public class GameModel {
     }
     //main - 4
 // -------------------------------- Игроки -----------------------------------
-    
+    //fiveth - 5
     private ArrayList<Player> _playerList = new ArrayList<>();
     private int _activePlayer;
 
