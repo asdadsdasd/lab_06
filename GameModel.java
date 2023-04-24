@@ -1,5 +1,5 @@
 package xzero.model;
-
+//second - 1
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;
