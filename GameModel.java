@@ -17,7 +17,7 @@ import xzero.model.navigation.Direction;
 * целью определения конца игры
 */
 public class GameModel {
-    
+//third - 3    
 // -------------------------------- Поле -------------------------------------
     
     //!!!
